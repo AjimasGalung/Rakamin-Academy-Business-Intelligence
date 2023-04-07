@@ -9,3 +9,10 @@ PostgreSQL, and the last is data visualizations using Tableau.
 - **Business Understanding and Problem Solving Strategy**
 - **Analyzing business needs by using PostgreSQL**
 - **Develope visualizations as well as interactive dashboard using Tableau**
+
+### :notebook_with_decorative_cover: Skills and Competencies
+- Business Acumen and Problem Solving
+- Statistics
+- Database Fundamental with PostgreSQL
+- Data Visualizations with Tableau
+- Reporting and Presentations
